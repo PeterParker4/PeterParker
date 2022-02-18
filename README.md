@@ -1,12 +1,12 @@
-### 프로덕트를 사랑하라
+### The greatest risk is the risk of riskless living.
 
-### 😄 Hi I'm Peter Parker. contact me [insta](https://www.instagram.com/yoo_gi_oh/) & [blog](https://velog.io/@yjscm04) 😄
+### 🕷 Hi I'm Peter Parker. contact me [insta](https://www.instagram.com/yoo_gi_oh/) & [blog](https://velog.io/@yjscm04) 😄
 
 ### 📖 Portfolio [click](https://www.notion.so/Yoo-Jin-Soo-63f369ce742c4c08b49e8199ae614a92)
 
 
 <!--
-**PeterParker4/PeterParker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PeterParker/PeterParker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
